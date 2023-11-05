@@ -1,6 +1,6 @@
-# tkt-tsoha-peliarvostelusovellus
-Tietokannat ja webohjelmointikurssin kurssityö
-Käyttäjä voi:
+# tkt-tsoha-peliarvostelusovellus  
+Tietokannat ja webohjelmointikurssin kurssityö  
+Käyttäjä voi:  
 -Kirjautua sisään tai luoda uuden tunnuksen  
 -Katsoa etusivulta uusimpia kirjoitettuja arvosteluja  
 -Arvostella pelin kirjallisesti, antaa sille kokonaisarvosanan ja arvosanoja pelin eri osa-alueille, kuten grafiikka, tarina, musiikki jne  
